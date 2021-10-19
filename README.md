@@ -1,5 +1,4 @@
-# GrinPack-1.8 [Creating by big__grin] | [Uploaded by Congo Bongo#0001]
-
+# GrinPack-1.8-1.9 **_By 'Congo Bongo#0001'_**
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Originally a 1.12.2 texture pack. Now ported to 1.8! By me, Congo Bongo.
